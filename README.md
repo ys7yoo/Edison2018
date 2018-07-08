@@ -19,7 +19,7 @@
 ## 보고서 작성 방법
 ### 온라인 소개자료
 * 조별 프로젝트에 대한 상세 내용을 소개하는 github repository 를 작성하여 주소를 제출 (yyoo@inu.ac.kr)
-* 기한: 2017년 8월 12일 자정
+* 기한: 2017년 7월 12일 자정
 * 참고자료: 
    * [캡스톤 디자인 2018-1 repository](http://github.com/ys7yoo/CapstoneDesign_2018-1)에 있는 다양한 프로젝트들을 정리한 자료 참고
    * [Markdown 작성법](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - README.md 작성시 참고
