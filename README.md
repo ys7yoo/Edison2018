@@ -17,7 +17,6 @@
 * 우주 (곽우정, 박주영) - [얼굴인식 도어락](www.github.com/jooyoung0525)
 * 원피스 (임유환, 김동환, 함근상) [스마트 힐링 홈 (감정인식 홈 시스템 제어)](https://github.com/sanana4/2018-EDISON-Team-ONEPIECE)
 * Grape (박준영, 신나라, 이종길) [해리포터와 재활치료](https://github.com/zoonyoung/Home-rehabilitation-treatment)
-[TO BE UPDATED]
 
 
 ## 평가 방법
