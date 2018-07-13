@@ -16,7 +16,7 @@
 * 동서가구 (이장희, 김진호, 이규승) - [헬로파이](https://github.com/kimjinho1/EDISON2018-smart-stand) ([video](https://youtu.be/mzgp0LI1t6c))
 * 우주 (곽우정, 박주영) - [얼굴인식 도어락](https://github.com/jooyoung0525/Face_Recognition-Door_Lock) ([video](https://www.youtube.com/watch?v=NYV56jPs7io))
 * 원피스 (임유환, 김동환, 함근상) - [스마트 힐링 홈 (감정인식 홈 시스템 제어)](https://github.com/sanana4/2018-EDISON-Team-ONEPIECE) ([video1](https://youtu.be/t6tQ4mxaHOk), [video2](https://youtu.be/Bb7qlM22CMk))
-* Grape (박준영, 신나라, 이종길) - [해리포터와 재활치료](https://github.com/zoonyoung/Home-rehabilitation-treatment)
+* Grape (박준영, 신나라, 이종길) - [해리포터와 재활치료](https://github.com/zoonyoung/Home-rehabilitation-treatment) ([video1](https://youtu.be/E8Xhtr497l8), [video2](https://youtu.be/IvRqTmsWWxw), [video3](https://youtu.be/Pj2LsNEUcCA), [video4](https://youtu.be/GB_V4lXnMM8), [video5](https://youtu.be/EF00FUXciWk))
 
 
 ## 평가 방법
