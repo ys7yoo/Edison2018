@@ -14,7 +14,7 @@
 * 1조 (김예지, 홍인화, 우진혁) - [영상인식 기반 스마트 휠체어](https://github.com/honginhwa/ghddlsghk3)
 * 하나로 (이찬희, 신지훈, 김태현) - [이미지를 통한 차량사고 감지 및 자동 신고](https://github.com/Kim-Taehyeon/Car_Accident_Detection_System) ([video1](https://www.youtube.com/watch?v=9d2xdspRXdA&feature=youtu.be), [video2](https://www.youtube.com/watch?v=ifxCiW4i114&feature=youtu.be), [video3](https://www.youtube.com/watch?v=sOUA0RG7VCg&feature=youtu.be), [video4](https://youtu.be/ZwXB3LhHlwI))
 * 동서가구 (이장희, 김진호, 이규승) - [헬로파이](https://github.com/kimjinho1/EDISON2018-smart-stand) ([video](https://youtu.be/mzgp0LI1t6c))
-* 우주 (곽우정, 박주영) - [얼굴인식 도어락](https://github.com/jooyoung0525/Face_Recognition-Door_Lock)
+* 우주 (곽우정, 박주영) - [얼굴인식 도어락](https://github.com/jooyoung0525/Face_Recognition-Door_Lock) ([video](https://www.youtube.com/watch?v=NYV56jPs7io))
 * 원피스 (임유환, 김동환, 함근상) - [스마트 힐링 홈 (감정인식 홈 시스템 제어)](https://github.com/sanana4/2018-EDISON-Team-ONEPIECE) ([video1](https://youtu.be/t6tQ4mxaHOk), [video2](https://youtu.be/Bb7qlM22CMk))
 * Grape (박준영, 신나라, 이종길) - [해리포터와 재활치료](https://github.com/zoonyoung/Home-rehabilitation-treatment)
 
