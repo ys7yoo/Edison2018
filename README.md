@@ -11,12 +11,12 @@
 
 
 ## 팀별 프로젝트 소개 
-* 1조 (김예지, 홍인화) [영상인식 기반 스마트 휠체어](https://github.com/honginhwa/ghddlsghk3)
-* 하나로 (이찬희, 신지훈, 김태현) [https://github.com/Kim-Taehyeon/Car_Accident_Detection_System](https://github.com/Kim-Taehyeon/Car_Accident_Detection_System)
-* 동서가구 [스마트 스탠드](https://github.com/kimjinho1/EDISON2018-smart-stand)
-* 우주 - www.github.com/jooyoung0525
-* [스마트 힐링 홈](https://github.com/sanana4/2018-EDISON-Team-ONEPIECE)
-* 6조 Grape [https://github.com/zoonyoung/Home-rehabilitation-treatment](https://github.com/zoonyoung/Home-rehabilitation-treatment)
+* 1조 (김예지, 홍인화, 우진혁) [영상인식 기반 스마트 휠체어](https://github.com/honginhwa/ghddlsghk3)
+* 하나로 (이찬희, 신지훈, 김태현) [이미지를 통한 차량사고 감지 및 자동 신고](https://github.com/Kim-Taehyeon/Car_Accident_Detection_System)
+* 동서가구 (이장희, 김진호, 이규승) [헬로파이(스마트 스탠드)](https://github.com/kimjinho1/EDISON2018-smart-stand)
+* 우주 (곽우정, 박주영) - [얼굴인식 도어락](www.github.com/jooyoung0525)
+* 원피스 (임유환, 김동환, 함근상) [스마트 힐링 홈 (감정인식 홈 시스템 제어)](https://github.com/sanana4/2018-EDISON-Team-ONEPIECE)
+* Grape (박준영, 신나라, 이종길) [해리포터와 재활치료](https://github.com/zoonyoung/Home-rehabilitation-treatment)
 [TO BE UPDATED]
 
 
