@@ -9,7 +9,12 @@
 
 
 ## 팀별 프로젝트 소개 
-
+* 1조 (김예지, 홍인화) [영상인식 기반 스마트 휠체어](https://github.com/honginhwa/ghddlsghk3)
+* 하나로 (이찬희, 신지훈, 김태현) [https://github.com/Kim-Taehyeon/Car_Accident_Detection_System](https://github.com/Kim-Taehyeon/Car_Accident_Detection_System)
+* 동서가구 [스마트 스탠드](https://github.com/kimjinho1/EDISON2018-smart-stand)
+* 우주 - www.github.com/jooyoung0525
+* [스마트 힐링 홈](https://github.com/sanana4/2018-EDISON-Team-ONEPIECE)
+* 6조 Grape [https://github.com/zoonyoung/Home-rehabilitation-treatment](https://github.com/zoonyoung/Home-rehabilitation-treatment)
 [TO BE UPDATED]
 
 
